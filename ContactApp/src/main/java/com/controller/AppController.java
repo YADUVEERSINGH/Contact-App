@@ -10,4 +10,9 @@ public class AppController {
 	public String home() {
 		return "home";
 	}
+	
+	@RequestMapping("/registration")
+	public String register() {
+		return "register";
+	}
 }
