@@ -13,7 +13,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <div class="text-center mt-2 cotainer">
+<!--     <div class="text-center mt-2 cotainer">
     	<h2> Contact Application</h2>
     </div>
     <div>
@@ -38,7 +38,18 @@
     
     
     </div>
-    <hr>
+    <hr> -->
+    
+    <table border="1" width="80%" >
+    	<tr>
+    		<td height="100px"></td>
+    	</tr>
+    	<tr>
+    		<td height="25px"></td>
+    	</tr>
+    	
+    		
+    </table>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
