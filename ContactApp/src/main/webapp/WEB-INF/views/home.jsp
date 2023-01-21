@@ -39,14 +39,8 @@
     
     </div>
     <hr> -->
-    
-    <table border="1" width="80%" >
-    	<tr>
-    		<td height="100px"></td>
-    	</tr>
-    	<tr>
-    		<td height="25px"></td>
-    	</tr>
+
+    	
     	
     		
     </table>
