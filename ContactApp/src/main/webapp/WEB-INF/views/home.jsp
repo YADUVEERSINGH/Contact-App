@@ -13,7 +13,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-<!--     <div class="text-center mt-2 cotainer">
+   <div class="text-center mt-2 cotainer">
     	<h2> Contact Application</h2>
     </div>
     <div>
@@ -38,7 +38,7 @@
     
     
     </div>
-    <hr> -->
+    <hr>
 
     	
     	
