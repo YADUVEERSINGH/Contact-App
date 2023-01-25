@@ -34,6 +34,9 @@
     	<div>
     		<h4>User Login</h4>
     	</div>
+    	<div>
+    		<h4>Sign Up</h4>
+    	</div>
     	<div></div>
     
     
