@@ -20,4 +20,8 @@ public class AppController {
 	public String deleteit() {
 		return "register";
 	}
+	@RequestMapping("/registration")
+	public String deleteita() {
+		return "register";
+	}
 }
